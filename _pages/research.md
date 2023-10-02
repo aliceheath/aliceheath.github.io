@@ -20,7 +20,7 @@ I examine the impact of a temporary freeze in the Children’s Health Insurance 
 #### Stigma and Social Safety Net Participation
 *(with Kelsey Pukelis and Michael Holcomb)*
 
-Stigma may prevent participation in social safety net programs and impose utility costs on individuals already receiving benefits. We use a descriptive survey and survey experiment to assess the role of stigma as a barrier to take-up in the Supplemental Nutritional Assistance Program (SNAP) and the potential for interventions to alleviate stigma and increase take-up. The descriptive survey measures the general population’s attitudes and beliefs about individuals who participate in social programs, the observability of participation, barriers and benefits associated with participation, and second-order beliefs related to stigma. The experiment tests the impact of three interventions on stigmatizing beliefs and interest in SNAP participation.
+Stigma may prevent participation in social safety net programs and impose utility costs on individuals already receiving benefits. We use a nationally representative to assess the prevalence of stigma and its role as a barrier to take-up in the Supplemental Nutritional Assistance Program (SNAP) and the potential for interventions to alleviate stigma and increase take-up. The survey measures respondents' beliefs about the observability of participation, barriers and benefits associated with participation, and attitudes towards individuals who participate in SNAP. An experimental component tests the impact of three interventions on stigmatizing beliefs and interest in SNAP participation.
 
 #### Evaluating the Role of Stigma as a Barrier to Take-up of Government Programs
 *(with Jessica Lasky-Fink, Elizabeth Linos and Heidi Wallace)*
