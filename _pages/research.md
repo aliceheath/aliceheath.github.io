@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-#### Government Reactions to Local News:\\Evidence From Child Protection Tragedies
+#### Government Reactions to Local News: Evidence From Child Protection Tragedies
 *(Job Market Paper - will be uploaded in early October)*
 
 Over 150 children die due to maltreatment every month in the US; a small portion of these deaths are covered extensively in local newspapers. This paper examines how child protection agencies, which interact with one in three US children, react to maltreatment deaths and assesses the consequences for citizen welfare. I first analyze full-text newspaper archives to construct a new dataset of publicized maltreatment deaths between 1999 and 2019. I then adapt the staggered adoption event study framework to identify the impact of the deaths on local child protection systems and child outcomes. Agencies have large reactions to highly-publicized deaths, increasing removal rates by 19%. There is no detectable reaction to less-publicized deaths, which suggests agencies are responding primarily to scrutiny rather than information. Highly-publicized deaths induce a targeted increase in removals among children with the highest predicted risk of re-maltreatment. Moreover, injuries and psychiatric hospitalizations among Medicaid recipients decrease. But Black children's removal rates rise more than White children's even conditional on risk. Government reactions therefore do not appear to be optimal, though parts of the response may be welfare-enhancing.
