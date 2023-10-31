@@ -6,8 +6,8 @@ nav: true
 nav_order: 1
 ---
 
-#### Government Reactions to Tragedy: How Maltreatment Deaths Impact Child Protection
-*(Job Market Paper - will be uploaded in October)*
+#### <a href="https://aliceheath.github.io/jmp" target="_blank">Government Reactions to Tragedy: How Maltreatment Deaths Impact Child Protection</a>
+*(Job Market Paper)*
 
 Governments often change policy or practice following a tragedy. In theory, governments should use information from tragedies to optimally update. In practice, their reactions may not be well-calibrated and may depend on whether the tragedy is spotlighted in the media. This paper examines how child protection agencies react to maltreatment deaths and assesses the consequences for welfare. I first analyze newspaper archives to construct a dataset of publicized maltreatment deaths between 1999 and 2019. I then employ the staggered adoption event study framework to identify the impact of a death on child protection systems and child outcomes. Agencies react sharply to highly-publicized deaths, increasing removals by 19 percent. There is no detectable reaction to less-publicized deaths, suggesting agencies respond primarily to scrutiny rather than information. Highly-publicized deaths induce an increase in removals among children with the highest predicted risk of maltreatment. Moreover, hospitalizations for maltreatment-related diagnoses among Medicaid recipients decline. But Black children's removal rates rise more than White children's even conditional on risk, increasing the Black-White removal rate gap. Agency reactions to tragedies therefore do not appear to be optimal, though parts of their reactions may be welfare-enhancing.
 
